@@ -1,4 +1,4 @@
-# cryptohunter
+# Cryptohunter
 Cryptocurrency search engine, tools for traders in the Binance futures market
 This code is made in Python, it will help you find the currencies with the highest volatility and volume at the present time.
 
