@@ -1,121 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T09:19:50.318Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="oM5UQpCYXPktulyAP5ZS" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T03:24:21.918Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="4RvTKeGWx4YKASucEyiw" version="24.4.13" type="github">
   <diagram name="Página-1" id="aMBV9uUNQa9EZfxKP61E">
-    <mxGraphModel dx="3428" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1714" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bvGF2Mb-tplABMzwDpij-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-1" target="bvGF2Mb-tplABMzwDpij-2">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bvGF2Mb-tplABMzwDpij-1" target="bvGF2Mb-tplABMzwDpij-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="40" width="120" height="80" as="geometry" />
+        <mxCell id="bvGF2Mb-tplABMzwDpij-1" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;START&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="225" y="30" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-2" target="bvGF2Mb-tplABMzwDpij-3">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bvGF2Mb-tplABMzwDpij-2" target="bvGF2Mb-tplABMzwDpij-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Load API Keys&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Load API Keys&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-3" target="bvGF2Mb-tplABMzwDpij-7">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bvGF2Mb-tplABMzwDpij-3" target="bvGF2Mb-tplABMzwDpij-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-3" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Create Binance&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Client instance&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-3" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Create Binance&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Client instance&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="360" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-7" target="bvGF2Mb-tplABMzwDpij-9">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bvGF2Mb-tplABMzwDpij-7" target="bvGF2Mb-tplABMzwDpij-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-7" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Get futures &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Symbols information&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-7" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Get futures &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Symbols information&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="504.5" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-9" target="bvGF2Mb-tplABMzwDpij-11">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bvGF2Mb-tplABMzwDpij-9" target="bvGF2Mb-tplABMzwDpij-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-9" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Initialize list to&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;store relevant &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;pairs&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-9" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Initialize list to&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;store relevant &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;pairs&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="670" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-11" target="bvGF2Mb-tplABMzwDpij-17">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bvGF2Mb-tplABMzwDpij-11" target="bvGF2Mb-tplABMzwDpij-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="545" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-21" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;NO&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bvGF2Mb-tplABMzwDpij-15">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-21" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;NO&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bvGF2Mb-tplABMzwDpij-15" vertex="1" connectable="0">
           <mxGeometry x="-0.0202" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-11" target="bvGF2Mb-tplABMzwDpij-18">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bvGF2Mb-tplABMzwDpij-11" target="bvGF2Mb-tplABMzwDpij-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bvGF2Mb-tplABMzwDpij-19">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bvGF2Mb-tplABMzwDpij-19" vertex="1" connectable="0">
           <mxGeometry x="-0.237" y="6" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;YES&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bvGF2Mb-tplABMzwDpij-19">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;YES&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bvGF2Mb-tplABMzwDpij-19" vertex="1" connectable="0">
           <mxGeometry x="-0.1987" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-11" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Loop for each&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;futures symbol&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Check if the Symbol ends with USDT&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-11" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Loop for each&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;futures symbol&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Check if the Symbol ends with USDT&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="850" width="380" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-17" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;End of Loop&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="880" width="130" height="40" as="geometry" />
+        <mxCell id="bvGF2Mb-tplABMzwDpij-17" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;End of Loop&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="635" y="880" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-18" target="bvGF2Mb-tplABMzwDpij-23">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bvGF2Mb-tplABMzwDpij-18" target="bvGF2Mb-tplABMzwDpij-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-18" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Inside the loop&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Get historical price data&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-18" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Inside the loop&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Get historical price data&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="1070" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-23" target="bvGF2Mb-tplABMzwDpij-25">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bvGF2Mb-tplABMzwDpij-23" target="bvGF2Mb-tplABMzwDpij-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-23" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Sort the relevant paisrs list:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Caculate total volume&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-23" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Sort the relevant paisrs list:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Caculate total volume&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="175" y="1280" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-25" target="bvGF2Mb-tplABMzwDpij-27">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bvGF2Mb-tplABMzwDpij-25" target="bvGF2Mb-tplABMzwDpij-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-25" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Select the top 6 relevant pairs Calculate percentage price&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;change &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-25" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Select the top 6 relevant pairs Calculate percentage price&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;change &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1520" width="320" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-27" target="bvGF2Mb-tplABMzwDpij-29">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bvGF2Mb-tplABMzwDpij-27" target="bvGF2Mb-tplABMzwDpij-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-27" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Print the results &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Add pair information to &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;the relevant list&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-27" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Print the results &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Add pair information to &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;the relevant list&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1830" width="320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-29" target="bvGF2Mb-tplABMzwDpij-31">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bvGF2Mb-tplABMzwDpij-29" target="bvGF2Mb-tplABMzwDpij-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;End of loop&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="2070" width="250" height="160" as="geometry" />
+        <mxCell id="bvGF2Mb-tplABMzwDpij-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;END LOOP&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="192.5" y="2070" width="235" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-31" target="bvGF2Mb-tplABMzwDpij-33">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bvGF2Mb-tplABMzwDpij-31" target="bvGF2Mb-tplABMzwDpij-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Sort the relevant pairs list&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1280" width="320" height="150" as="geometry" />
+        <mxCell id="bvGF2Mb-tplABMzwDpij-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Sort the relevant pairs list&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1095" y="1280" width="290" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-33" target="bvGF2Mb-tplABMzwDpij-35">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bvGF2Mb-tplABMzwDpij-33" target="bvGF2Mb-tplABMzwDpij-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-33" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Select the top 6 relevant pairs&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1600" width="320" height="140" as="geometry" />
+        <mxCell id="bvGF2Mb-tplABMzwDpij-33" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Select the top 6 relevant pairs&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1540" width="320" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bvGF2Mb-tplABMzwDpij-35" target="bvGF2Mb-tplABMzwDpij-37">
+        <mxCell id="bvGF2Mb-tplABMzwDpij-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bvGF2Mb-tplABMzwDpij-35" target="bvGF2Mb-tplABMzwDpij-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-35" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Print the result&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="1870" width="310" height="100" as="geometry" />
+        <mxCell id="bvGF2Mb-tplABMzwDpij-35" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Print the result&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1085" y="1820" width="310" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-37" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="2160" width="250" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="bvGF2Mb-tplABMzwDpij-39" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;End&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="2220" width="60" height="60" as="geometry" />
+        <mxCell id="bvGF2Mb-tplABMzwDpij-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;END&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1115" y="2130" width="250" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
